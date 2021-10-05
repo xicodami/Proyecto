@@ -13,7 +13,7 @@
         <!-- BOOTSTRAP CSS-->
         <link rel="stylesheet" href="../Bootstrap/css/bootstrap.min.css" />
         <!-- CUSTOM CSS-->
-        <link rel="stylesheet" href="../Estilos/Estilos.css" />
+        <link rel="stylesheet" href="../Styles/Style.css" />
 
     </head>
 
@@ -71,9 +71,6 @@
 
                     <!--Login_con_redes_sociales-->
                     <div class="container w-100 my-5">
-                        <div class="row text-center my-4">
-                            <div class="col-12">Iniciar Sesion</div>
-                        </div>
                         <div class="row">
                             <div class="col">
                                 <button class="btn btn-outline-primary w-100 my-1">
@@ -113,7 +110,7 @@
     <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
     <!-- CUSTOM_SCRIPTS-->
-    <script src=""></script>
+    <script src="../JS/"></script>
 
     </body>
 </html>
